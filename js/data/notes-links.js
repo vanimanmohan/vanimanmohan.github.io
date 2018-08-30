@@ -7,7 +7,7 @@ var notes_data = {
         },
         { 
             "Title": "Machine Learning Assignment 1 (2018)", 
-            "URL": "https://drive.google.com/open?id=1B7ef9qeIcSAh-3nJmyOST07qtWdfeuFS", 
+            "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHY2hUM25pVTUxanFCRUV0MUZiRDZHRXZUSnB3/view?usp=sharing", 
             "Type": "Assignment" 
         },
         { 
