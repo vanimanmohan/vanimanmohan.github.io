@@ -1,6 +1,11 @@
 var notes_data = {
     "Links": [
         { 
+            "Title": "Machine Learning Prescribed Textbook (2018)", 
+            "URL": "https://drive.google.com/file/d/1-DO9FYENMOgjgOpC1kepNM2OBVgPLom8/view?usp=sharing", 
+            "Type": "Text Book" 
+        },
+        { 
             "Title": "Machine Learning Assignment 1 (2018)", 
             "URL": "https://drive.google.com/open?id=1B7ef9qeIcSAh-3nJmyOST07qtWdfeuFS", 
             "Type": "Assignment" 
