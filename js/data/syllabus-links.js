@@ -1,6 +1,11 @@
 var syllabus_data = {
     "Links": [
         { 
+            "Title": "Data Structures VTU question papres", 
+            "URL": "https://drive.google.com/open?id=1Bnb_HdguGARBjjrmnn-uKsoUq5fD4M1v", 
+            "Type": "Question Papers" 
+        },
+        { 
             "Title": "ADA Lesson Plan (2018)", 
             "URL": "https://drive.google.com/file/d/11AizyesH7zY_axc5GAdM2V62yP-RwS_G/view", 
             "Type": "Lesson Plan" 
