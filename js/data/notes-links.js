@@ -1,6 +1,11 @@
 var notes_data = {
     "Links": [
          { 
+            "Title": "Machine Learning Lab Program-2(2018)",
+            "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHVFo5aFl2S1FwcTNwcDVyTlFoTkNwX3pxSnh3/view?usp=sharing",
+            "Type": "VTU 15CS37 Machine Learning Lab" 
+         },
+         { 
             "Title": "Machine Learning Assignment-2(2018)",
             "URL": "https://drive.google.com/file/d/1ZaCj-3PPaONcs3pd4C5inMmS4UMxFFvv/view?usp=sharing",
             "Type": "VTU 15CS33 Machine Learning" 
