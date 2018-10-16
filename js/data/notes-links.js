@@ -1,8 +1,13 @@
 var notes_data = {
     "Links": [
          { 
+            "Title": "Machine Learning Assignment-2(2018)",
+            "URL": "https://drive.google.com/file/d/1ZaCj-3PPaONcs3pd4C5inMmS4UMxFFvv/view?usp=sharing",
+            "Type": "VTU 15CS33 Machine Learning" 
+         },
+         { 
             "Title": "Data structure Assignments (2018)",
-            "URL": "hhttps://drive.google.com/drive/folders/1i4MsZ3bHI-APFxXQalyF6iU0w3aqrXJS?usp=sharing",
+            "URL": "https://drive.google.com/drive/folders/1i4MsZ3bHI-APFxXQalyF6iU0w3aqrXJS?usp=sharing",
             "Type": "VTU 17CS33 Data Structures" 
         },
         { 
