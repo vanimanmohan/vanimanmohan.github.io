@@ -1,6 +1,11 @@
 var notes_data = {
     "Links": [
          { 
+            "Title": "Data structure old question papres",
+            "URL": "https://drive.google.com/open?id=1Bnb_HdguGARBjjrmnn-uKsoUq5fD4M1v",
+            "Type": "VTU 17CS33 Data Structures" 
+        },
+         { 
             "Title": "Machine Learning Lab program-4(VTU) (2018)",
             "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHNGhCa1I3cUNlQTZNMlRTYkdoSHc3bXBnQ09z/view?usp=sharing",
             "Type": "VTU 15CS73 Machine Learning Lab Program" 
