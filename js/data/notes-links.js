@@ -1,5 +1,10 @@
 var notes_data = {
     "Links": [
+        { 
+            "Title": "Machine Learning -Example of Backpropagation algorithm(2018)",
+            "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHYUpUUzdrU2dkU292N0Y0VGdkU3QtZHJHN3Bn/view?usp=sharing",
+            "Type": "VTU 15CS37 Machine Learning Lab" 
+         },
          { 
             "Title": "Machine Learning Lab Program-2(2018)",
             "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHVFo5aFl2S1FwcTNwcDVyTlFoTkNwX3pxSnh3/view?usp=sharing",
