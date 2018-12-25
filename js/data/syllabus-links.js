@@ -3,6 +3,7 @@ var syllabus_data = {
         { 
             "Title": "Python e-books",
             "URL": "https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing",
+            "URL":"https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing",
             "Type": "e-book" 
         },
         { 
