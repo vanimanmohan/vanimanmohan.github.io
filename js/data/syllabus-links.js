@@ -1,8 +1,17 @@
 var syllabus_data = {
   "Links": [
         { 
-            "Title": "Python e-books",
-            "URL": "https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing",
+            "Title": "Python e-book Think Python",
+            "URL": "https://drive.google.com/open?id=1tcp5NhqvfPKVtLez4vSdsn5NZKRhnrUO",
+            "Type": "e-book" 
+        },
+        { 
+            "Title": "Python e-book Python for everybody",
+            "URL": "https://drive.google.com/file/d/1RqijsQ2JNMkYLdb_zUFY4W9E12CNBD3l/view?usp=sharing",
+            "Type": "e-book" 
+        },
+        { 
+            "Title": "Python e-book Introduction to python and computer programming",
             "URL":"https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing",
             "Type": "e-book" 
         },
