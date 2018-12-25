@@ -1,5 +1,20 @@
 var notes_data = {
     "Links": [
+         { 
+            "Title": "Python e-book Think Python",
+            "URL": "https://drive.google.com/open?id=1tcp5NhqvfPKVtLez4vSdsn5NZKRhnrUO",
+            "Type": "e-book" 
+        },
+        { 
+            "Title": "Python e-book Python for everybody",
+            "URL": "https://drive.google.com/file/d/1RqijsQ2JNMkYLdb_zUFY4W9E12CNBD3l/view?usp=sharing",
+            "Type": "e-book" 
+        },
+        { 
+            "Title": "Python e-book Introduction to python and computer programming",
+            "URL":"https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing",
+            "Type": "e-book" 
+        },
         { 
             "Title": "Machine Learning -Example of Backpropagation algorithm(2018)",
             "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHYUpUUzdrU2dkU292N0Y0VGdkU3QtZHJHN3Bn/view?usp=sharing",
