@@ -1,5 +1,11 @@
 var syllabus_data = {
-    "Links": [
+
+        { 
+            "Title": "Python e-books", 
+            "URL": "https://drive.google.com/open?id=1tcp5NhqvfPKVtLez4vSdsn5NZKRhnrUO", 
+            "URL": "https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing"
+            "Type": "e-book" 
+        },
         { 
             "Title": "Data Structures VTU question papres", 
             "URL": "https://drive.google.com/open?id=1Bnb_HdguGARBjjrmnn-uKsoUq5fD4M1v", 
