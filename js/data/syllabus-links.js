@@ -1,5 +1,11 @@
 var syllabus_data = {
   "Links": [
+    { 
+            "Title": "Python Syllabus and text and references books and COs",
+            "URL": "https://drive.google.com/file/d/1eWtaWONimWOoPPHLJCEu4qfDNgIPGiBC/view?usp=sharing",
+            "Type": "Syllabus" 
+        },
+    https://drive.google.com/file/d/1eWtaWONimWOoPPHLJCEu4qfDNgIPGiBC/view?usp=sharing
         { 
             "Title": "Python e-book Think Python",
             "URL": "https://drive.google.com/open?id=1tcp5NhqvfPKVtLez4vSdsn5NZKRhnrUO",
