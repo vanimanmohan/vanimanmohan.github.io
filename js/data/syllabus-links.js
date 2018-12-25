@@ -1,26 +1,12 @@
 var syllabus_data = {
   "Links": [
-    { 
+       { 
             "Title": "Python Syllabus and text and references books and COs",
             "URL": "https://drive.google.com/file/d/1eWtaWONimWOoPPHLJCEu4qfDNgIPGiBC/view?usp=sharing",
             "Type": "Syllabus" 
         },
-    https://drive.google.com/file/d/1eWtaWONimWOoPPHLJCEu4qfDNgIPGiBC/view?usp=sharing
-        { 
-            "Title": "Python e-book Think Python",
-            "URL": "https://drive.google.com/open?id=1tcp5NhqvfPKVtLez4vSdsn5NZKRhnrUO",
-            "Type": "e-book" 
-        },
-        { 
-            "Title": "Python e-book Python for everybody",
-            "URL": "https://drive.google.com/file/d/1RqijsQ2JNMkYLdb_zUFY4W9E12CNBD3l/view?usp=sharing",
-            "Type": "e-book" 
-        },
-        { 
-            "Title": "Python e-book Introduction to python and computer programming",
-            "URL":"https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing",
-            "Type": "e-book" 
-        },
+   
+
         { 
             "Title": "Data Structures VTU question papres", 
             "URL": "https://drive.google.com/open?id=1Bnb_HdguGARBjjrmnn-uKsoUq5fD4M1v", 
