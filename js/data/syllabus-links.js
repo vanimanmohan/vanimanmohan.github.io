@@ -2,7 +2,7 @@ var syllabus_data = {
   "Links": [
        { 
             "Title": "Python Syllabus and text and references books and COs",
-            "URL": "https://drive.google.com/file/d/1eWtaWONimWOoPPHLJCEu4qfDNgIPGiBC/view?usp=sharing",
+            "URL": "https://drive.google.com/file/d/1vyrteq9TmqFoPwMnEpCSP-oIhmgWxoh1/view?usp=sharing",
             "Type": "Syllabus" 
         },
    
