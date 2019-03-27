@@ -1,6 +1,11 @@
 var notes_data = {
     "Links": [
          { 
+            "Title": "Assignment 1(Python 2019)",
+            "URL": "https://drive.google.com/file/d/1GwBLqKfxQt_DQTXtC6V8K54cr4UMCyUv/view?usp=sharing",
+            "Type": "e-book" 
+         },
+         { 
             "Title": "Python e-book Think Python",
             "URL": "https://drive.google.com/open?id=1tcp5NhqvfPKVtLez4vSdsn5NZKRhnrUO",
             "Type": "e-book" 
