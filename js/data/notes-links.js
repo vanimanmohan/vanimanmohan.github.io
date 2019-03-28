@@ -3,7 +3,7 @@ var notes_data = {
          { 
             "Title": "Assignment 1(Python 2019)",
             "URL": "https://drive.google.com/file/d/1GwBLqKfxQt_DQTXtC6V8K54cr4UMCyUv/view?usp=sharing",
-            "Type": "e-book" 
+            "Type": "Assignments" 
          },
          { 
             "Title": "Python e-book Think Python",
