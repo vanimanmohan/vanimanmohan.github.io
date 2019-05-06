@@ -1,5 +1,12 @@
 var notes_data = {
     "Links": [
+        { 
+            "Title": "Assignment 3 (Python 2019)",
+            "URL": "https://docs.google.com/document/d/1Zgauj_LxHXV3w_6IxYI-_VZ-rm2B-ZlHpS_AW2RWeAw/edit?usp=sharing",
+            
+            "Type": "Assignments" 
+        
+         },
          { 
             "Title": "Assignment 2(Python 2019)",
             "URL": " https://drive.google.com/open?id=1l8FHRxttN9oSBUX5TV5EQZsbLIoibiwa",
