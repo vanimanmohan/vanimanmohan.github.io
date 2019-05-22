@@ -1,5 +1,12 @@
 var notes_data = {
     "Links": [
+         { 
+            "Title": "Google Scholar Link",
+            "URL": "https://scholar.google.co.in/citations?user=QlnYQNsAAAAJ&hl=en&citsig=AMD79oqbIdBCNSZ0UrZupLZjK6RTGcTstg&gmla=AJsN-F5hMHBV0k3xr1FCeg_Y489mzRcZAJ7uLjKK4TLIfzbGF0u6on8sueR8bbfMXvnCLjj4R7E2qjUCf5lAmjIVcWYhxjREkQDgFlej1R6b3g6W4w4zmtA&sciund=14609241349557611908&gmla=AJsN-F7Bl2PYMpAoFA3hOFjAZj9ZWMrHqX-JYNVZnjb2Ylk6-SRn6ntp1s3DBDu77K0oHbxtAxvOzNUdH4fu7BNrBSfBrBK6rn9L6Ndbwmdz07S4nW2_eF8&sciund=8743225208394033464",
+            
+            "Type": "Information about me" 
+        
+         },
         { 
             "Title": "Assignment 3 (Python 2019)",
             "URL": "https://docs.google.com/document/d/1Zgauj_LxHXV3w_6IxYI-_VZ-rm2B-ZlHpS_AW2RWeAw/edit?usp=sharing",
