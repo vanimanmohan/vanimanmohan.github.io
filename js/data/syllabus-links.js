@@ -1,6 +1,13 @@
 var syllabus_data = {
   "Links": [
-        { 
+       { 
+            "Title": "Data Structures and Applications (18CS32) Syllabus",
+            "URL": "https://drive.google.com/file/d/1S06zu4iXr9sdFBh-YkZ7wm8Ndf115uak/view?usp=sharing",
+            "Type": "Syllabus" 
+        
+        },
+       
+      { 
             "Title": "Machine Learning Syllabus",
             "URL": "https://drive.google.com/file/d/1klgj7ABH1uBYdNvC5Z4oxMEY1c75o3sx/view?usp=sharing",
             "Type": "Syllabus" 
