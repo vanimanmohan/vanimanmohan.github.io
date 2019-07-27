@@ -1,6 +1,13 @@
 var syllabus_data = {
   "Links": [
-       { 
+        { 
+            "Title": "Machine Learning Syllabus",
+            "URL": "https://drive.google.com/file/d/1klgj7ABH1uBYdNvC5Z4oxMEY1c75o3sx/view?usp=sharing",
+            "Type": "Syllabus" 
+        
+        },
+    
+        { 
             "Title": "Python Syllabus and text and references books and COs",
             "URL": "https://drive.google.com/file/d/1vyrteq9TmqFoPwMnEpCSP-oIhmgWxoh1/view?usp=sharing",
             "Type": "Syllabus" 
