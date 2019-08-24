@@ -1,5 +1,12 @@
 var syllabus_data = {
   "Links": [
+     { 
+            "Title": "Data Structures and Applications (18CS32) Lesson Plan",
+            "URL": "https://drive.google.com/open?id=0B4v_eAdBMqPHdUtJOXlqdU9sOGIxM1hXUlQySGhTM0tqMHJB",
+            "Type": "Lesson Plan" 
+        
+        },
+       
        { 
             "Title": "Data Structures and Applications (18CS32) Syllabus",
             "URL": "https://drive.google.com/file/d/1S06zu4iXr9sdFBh-YkZ7wm8Ndf115uak/view?usp=sharing",
