@@ -1,6 +1,12 @@
 var syllabus_data = {
   "Links": [
      { 
+            "Title": "Machine Learning(15CS73) Lesson Plan",
+            "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHYXZodkFHOWxTdW5UZ1ZuWlJ1ZTVfMFE5Z05F/view?usp=sharing",
+            "Type": "Lesson Plan" 
+        
+        },
+     { 
             "Title": "Data Structures and Applications (18CS32) Lesson Plan",
             "URL": "https://drive.google.com/open?id=0B4v_eAdBMqPHdUtJOXlqdU9sOGIxM1hXUlQySGhTM0tqMHJB",
             "Type": "Lesson Plan" 
