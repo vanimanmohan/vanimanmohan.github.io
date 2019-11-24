@@ -1,5 +1,11 @@
 var syllabus_data = {
   "Links": [
+       { 
+            "Title": "Innovative Teaching Method ....Think-Pair-Share",
+            "URL": "https://nptel.ac.in/courses/106101060/"
+            "Type": "Flipped Class" 
+        
+        },
      { 
             "Title": "Machine Learning(15CS73) Lesson Plan",
             "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHYXZodkFHOWxTdW5UZ1ZuWlJ1ZTVfMFE5Z05F/view?usp=sharing",
