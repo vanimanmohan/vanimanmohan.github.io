@@ -2,7 +2,7 @@ var syllabus_data = {
   "Links": [
        { 
             "Title": "Innovative Teaching Method ....Think-Pair-Share",
-            "URL": "https://nptel.ac.in/courses/106101060/"
+            "URL": "https://nptel.ac.in/courses/106101060/",
             "Type": "Flipped Class" 
         
         },
