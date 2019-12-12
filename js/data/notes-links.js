@@ -1,6 +1,13 @@
 var notes_data = {
     "Links": [
-        { 
+         { 
+            "Title": "Avinash's github link for machine learning lab programs(15CSL76",
+            "URL": "https://github.com/iavinas/MLLAB"
+            
+            "Type": "Machine Learning Laboratory" 
+        
+         },
+        {
             "Title": "Assignment1 2019-20",
             "URL": "https://drive.google.com/file/d/1JJi6fuJDLC3_Y2IXtqf8CMb9c4R-Hvfn/view?usp=sharing",
             
