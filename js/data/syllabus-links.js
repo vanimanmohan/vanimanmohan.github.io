@@ -1,7 +1,7 @@
 var syllabus_data = {
   "Links": [
      { 
-            "Title": "Course End Survey of Data Stuctures(2019-20 AY) Link",
+            "Title": "Course End Survey of Data Stuctures 2019-20 AY Link",
             "URL": "https://docs.google.com/forms/d/1ZUHYt7y91QLHKuy5iqwveoS4nF0ROWuQL9wMer4r2s4/edit",
             "Type": "NBA" 
         
