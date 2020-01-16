@@ -13,6 +13,7 @@ var syllabus_data = {
             "Type": "Flipped Class" 
         
         },
+    
      { 
             "Title": "Machine Learning(15CS73) Lesson Plan",
             "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHTXpBbnhmR2swN1JodWMwM3haQndLdHREbnBN/view?usp=sharing",
