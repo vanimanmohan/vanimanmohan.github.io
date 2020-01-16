@@ -54,7 +54,6 @@ var syllabus_data = {
             "Type": "Syllabus" 
         },
    
-
         { 
             "Title": "Data Structures VTU question papres", 
             "URL": "https://drive.google.com/open?id=1Bnb_HdguGARBjjrmnn-uKsoUq5fD4M1v", 
