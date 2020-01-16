@@ -8,7 +8,7 @@ var syllabus_data = {
         },
      { 
             "Title": "Machine Learning(15CS73) Lesson Plan",
-            "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHYXZodkFHOWxTdW5UZ1ZuWlJ1ZTVfMFE5Z05F/view?usp=sharing",
+            "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHTXpBbnhmR2swN1JodWMwM3haQndLdHREbnBN/view?usp=sharing",
             "Type": "Lesson Plan" 
         
         },
