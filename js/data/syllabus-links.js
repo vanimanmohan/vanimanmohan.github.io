@@ -13,8 +13,15 @@ var syllabus_data = {
         
         },
      { 
-            "Title": "Data Structures and Applications (18CS32) Lesson Plan",
+            "Title": "Machine Learning Laboratory(15CSL76) Lesson Plan",
             "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHczk2LUl3VXg5RDhIcWdDUjM4MndvMjRoU2w0/view?usp=sharing",
+            "Type": "Lesson Plan" 
+        
+        },
+   
+     { 
+            "Title": "Data Structures and Applications (18CS32) Lesson Plan",
+            "URL": "https://drive.google.com/file/d/0B4v_eAdBMqPHcHFOM1pTNmptWGpscHpOSHo3aVF5dEN5d05N/view?usp=sharing",
              "Type": "Lesson Plan" 
         
         },
