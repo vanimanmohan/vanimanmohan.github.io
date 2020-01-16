@@ -6,7 +6,7 @@ var syllabus_data = {
             "Type": "NBA" 
         
         },
-     { 
+      
        { 
             "Title": "Innovative Teaching Method ....Think-Pair-Share",
             "URL": "https://nptel.ac.in/courses/106101060/",
