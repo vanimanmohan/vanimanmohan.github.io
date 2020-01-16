@@ -28,7 +28,7 @@ var syllabus_data = {
        
       { 
             "Title": "Machine Learning Syllabus",
-            "URL": "https://drive.google.com/file/d/1klgj7ABH1uBYdNvC5Z4oxMEY1c75o3sx/view?usp=sharing",
+            "URL": "https://drive.google.com/open?id=0B4v_eAdBMqPHTXpBbnhmR2swN1JodWMwM3haQndLdHREbnBN",
             "Type": "Syllabus" 
         
         },
