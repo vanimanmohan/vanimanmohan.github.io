@@ -1,5 +1,11 @@
 var syllabus_data = {
   "Links": [
+    { 
+            "Title": "Design and Analysis of Algorithms (18CS42) Syllabus",
+             "URL": "https://drive.google.com/open?id=1Y5g8Tjsi8hWhwfGMDQur6mGRV1vXWB5L",
+            "Type": "Syllabus" 
+        
+        },
      { 
             "Title": "Course End Survey of Data Stuctures 2019-20 AY Link",
             "URL": "https://docs.google.com/forms/d/1ZUHYt7y91QLHKuy5iqwveoS4nF0ROWuQL9wMer4r2s4/edit",
