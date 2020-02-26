@@ -1,6 +1,12 @@
 var syllabus_data = {
   "Links": [
       { 
+            "Title": "GEEK FOR GEEKS link for practicing Python Programs",
+             "URL": "https://www.geeksforgeeks.org/python-programming-examples/",
+            "Type": "Python Programs" 
+        
+        },
+     { 
             "Title": "Design and Analysis of Algorithms (18CS42) Lesson Plan",
              "URL": "https://drive.google.com/file/d/18b7tcRSowPGbXpijkoWfm8onbiKNxaD9/view?usp=sharing",
             "Type": "Lesson Plan" 
