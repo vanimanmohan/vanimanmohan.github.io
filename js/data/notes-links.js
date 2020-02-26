@@ -1,6 +1,18 @@
 var notes_data = {
     "Links": [
          { 
+            "Title": "GEEK FOR GEEKS LINK FOR PRACTICING ADA Conepts for Placements",
+          
+            "URL": "https://www.geeksforgeeks.org/algorithms-gq/analysis-of-algorithms-gq/",
+            
+            "Type": "ADA Questions" 
+        
+         },",
+            
+            "Type": "Machine Learning Laboratory" 
+        
+         },
+         { 
             "Title": "Avinash's github link for machine learning lab programs(15CSL76",
             "URL": "https://github.com/iavinas/MLLAB",
             
