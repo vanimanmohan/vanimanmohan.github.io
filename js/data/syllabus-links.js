@@ -1,5 +1,11 @@
 var syllabus_data = {
   "Links": [
+      { 
+            "Title": "Design and Analysis of Algorithms (18CS42) Lesson Plan",
+             "URL": "https://drive.google.com/file/d/18b7tcRSowPGbXpijkoWfm8onbiKNxaD9/view?usp=sharing",
+            "Type": "Lesson Plan" 
+        
+        },
     { 
             "Title": "Design and Analysis of Algorithms (18CS42) Syllabus",
              "URL": "https://drive.google.com/open?id=1Y5g8Tjsi8hWhwfGMDQur6mGRV1vXWB5L",
