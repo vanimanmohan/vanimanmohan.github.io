@@ -7,7 +7,7 @@ var notes_data = {
             
             "Type": "ADA Questions" 
         
-         },",
+         },
             
             "Type": "Machine Learning Laboratory" 
         
