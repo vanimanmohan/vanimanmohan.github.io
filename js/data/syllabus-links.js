@@ -1,5 +1,12 @@
 var syllabus_data = {
   "Links": [
+    
+       { 
+            "Title": "Python Application Programming",
+             "URL": "https://drive.google.com/file/d/12W_Tm_LTQBj2HpQ02Gf5Wk390oaZenIG/view?usp=sharing",
+            "Type": "Python Syllabus" 
+        
+        },
       { 
             "Title": "GEEK FOR GEEKS link for practicing Python Programs",
              "URL": "https://www.geeksforgeeks.org/python-programming-examples/",
