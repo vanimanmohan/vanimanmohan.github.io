@@ -2,9 +2,9 @@ var syllabus_data = {
   "Links": [
     
        { 
-            "Title": "Python Application Programming",
+            "Title": "Python Application  Programming Course Plan",
              "URL": "https://drive.google.com/file/d/12W_Tm_LTQBj2HpQ02Gf5Wk390oaZenIG/view?usp=sharing",
-            "Type": "Python Syllabus" 
+            "Type": "Python Course plan 2019-20" 
         
         },
       { 
