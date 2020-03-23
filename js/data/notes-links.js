@@ -1,5 +1,13 @@
 var notes_data = {
     "Links": [
+          { 
+            "Title": "Link list revisted- An article on Codeburst",
+          
+            "URL": "https://codeburst.io/linked-list-revisited-898e2c0b2d1a",
+            
+            "Type": "Data Structures" 
+        
+         },
          { 
             "Title": "GEEK FOR GEEKS LINK FOR PRACTICING ADA Conepts for Placements",
           
