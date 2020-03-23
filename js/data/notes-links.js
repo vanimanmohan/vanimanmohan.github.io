@@ -1,5 +1,13 @@
 var notes_data = {
     "Links": [
+        { 
+            "Title": "My Youtube Channel",
+          
+            "URL": "https://www.youtube.com/channel/UC3wNYB1YeGqCkb2QFzRIWGQ",
+            
+            "Type": "Youtube Channel Link" 
+        
+         },
           { 
             "Title": "Link list revisted- An article on Codeburst",
           
