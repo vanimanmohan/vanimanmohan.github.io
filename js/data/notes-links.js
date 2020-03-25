@@ -49,21 +49,21 @@ var notes_data = {
         
          },
         { 
-            "Title": "Assignment 3 (Python 2019)",
+            "Title": "Assignment 3 (Python 2019)15CS664 ",
             "URL": "https://docs.google.com/document/d/1Zgauj_LxHXV3w_6IxYI-_VZ-rm2B-ZlHpS_AW2RWeAw/edit?usp=sharing",
             
             "Type": "Assignments" 
         
          },
          { 
-            "Title": "Assignment 2(Python 2019)",
+            "Title": "Assignment 2(Python 2019)15CS664 ",
             "URL": " https://drive.google.com/open?id=1l8FHRxttN9oSBUX5TV5EQZsbLIoibiwa",
             
             "Type": "Assignments" 
         
          },
          { 
-            "Title": "Assignment 1(Python 2019)",
+            "Title": "Assignment 1(Python 2019)15CS664 ",
             "URL": "https://drive.google.com/file/d/1GwBLqKfxQt_DQTXtC6V8K54cr4UMCyUv/view?usp=sharing",
             "Type": "Assignments" 
          },
@@ -73,12 +73,12 @@ var notes_data = {
             "Type": "e-book" 
         },
         { 
-            "Title": "Python e-book Python for everybody",
+            "Title": "Python e-book Python for everybody-15CS664 ",
             "URL": "https://drive.google.com/file/d/1RqijsQ2JNMkYLdb_zUFY4W9E12CNBD3l/view?usp=sharing",
             "Type": "e-book" 
         },
         { 
-            "Title": "Python e-book Introduction to python and computer programming",
+            "Title": "Python e-book Introduction to python and computer programming-15CS664 ",
             "URL":"https://drive.google.com/file/d/1_-TkTF1QJD8o7wBDDBPM4NqHeEvW1mPq/view?usp=sharing",
             "Type": "e-book" 
         },
