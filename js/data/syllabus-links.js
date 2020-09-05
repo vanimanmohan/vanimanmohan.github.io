@@ -1,7 +1,7 @@
 var syllabus_data = {
   "Links": [
       { 
-            "Title": Data Structures and Applications syllabus 18CS32 (VTU)",
+            "Title": "Data Structures and Applications syllabus 18CS32 (VTU)",
              "URL": "https://drive.google.com/file/d/1S06zu4iXr9sdFBh-YkZ7wm8Ndf115uak/view?usp=sharing",
             "Type": "Syllabus" 
         
