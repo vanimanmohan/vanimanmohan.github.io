@@ -1,5 +1,11 @@
 var syllabus_data = {
   "Links": [
+     { 
+            "Title": "Machine Learning syllabus 17CS73 (VTU)",
+            "URL": "https://drive.google.com/file/d/1NC0Txu6c0hvVs3Av8XsNbTx_EecyM1qa/view?usp=sharing",
+            "Type": "Syllabus" 
+        
+        },
       { 
             "Title": "Data Structures and Applications syllabus 18CS32 (VTU)",
              "URL": "https://drive.google.com/file/d/1S06zu4iXr9sdFBh-YkZ7wm8Ndf115uak/view?usp=sharing",
