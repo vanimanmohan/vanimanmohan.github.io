@@ -1,5 +1,13 @@
 var notes_data = {
     "Links": [
+         { 
+            "Title": "Implementation of Candidate Elimination Algorithm in Python (17CSL76) VTU-Lab Program-2",
+          
+            "URL": "https://www.youtube.com/watch?v=35jcahFvGPs&t=2063s",
+            
+            "Type": "17CSL76 Machine Learning Lab Program-2" 
+        
+         },
         { 
             "Title": "My Youtube Channel",
           
